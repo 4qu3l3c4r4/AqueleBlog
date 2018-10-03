@@ -61,7 +61,7 @@ module.exports = {
     website: 'https://www.facebook.com/alanabusivo',
     github: 'https://github.com/4qu3l3c4r4',
     twitter: 'https://twitter.com/aquelecara',
-    linkedin: 'https://ca.linkedin.com/in/alandiegosilva'
+    linkedin: 'https://www.linkedin.com/in/alandiegosilva'
   }
 };
 ```
