@@ -1,7 +1,7 @@
 const userConfig = require('./config');
 
 module.exports = {
-  pathPrefix: `/aqueleblog`,
+  pathPrefix: `/AqueleBlog`,
   siteMetadata: {
     title: userConfig.title,
     author: userConfig.author,
