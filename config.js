@@ -1,15 +1,15 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  tagline: 'Full-stack Web Developer',
+  title: 'Aquele Blog', // Required
+  author: 'Alan Diego Silva', // Required
+  tagline: 'Quality Assurance Test Automation Analyst',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald'
+    website: 'https://www.facebook.com/alanabusivo',
+    github: 'https://github.com/4qu3l3c4r4',
+    twitter: 'https://twitter.com/aquelecara',
+    linkedin: 'https://ca.linkedin.com/in/alandiegosilva'
   }
 };
